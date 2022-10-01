@@ -1,4 +1,4 @@
-package com.tns.operator;
+package com.tns.Operator;
 
 public class ArithmeticOperator {
 	

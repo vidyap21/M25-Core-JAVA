@@ -1,4 +1,4 @@
-package com.tns.operator;
+package com.tns.Operator;
 
 public class BitwiseOperator_ShiftingOperator {
 	public static void main(String[] args) {
