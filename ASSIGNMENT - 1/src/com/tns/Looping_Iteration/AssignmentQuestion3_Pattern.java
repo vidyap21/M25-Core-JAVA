@@ -1,6 +1,6 @@
 package com.tns.Looping_Iteration;
 
-public class Pattern {
+public class AssignmentQuestion3_Pattern {
 	  
 	   public static void main(String[] args)  
 	   {  
