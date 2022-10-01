@@ -1,4 +1,4 @@
-package tns.in.Looping_Iteration;
+package com.tns.Looping_Iteration;
 
 	public class While{
 		public static void main(String arg[])

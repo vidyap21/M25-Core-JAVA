@@ -1,4 +1,4 @@
-package tns.in.Looping_Iteration;
+package com.tns.Looping_Iteration;
 import java.util.ArrayList;
 import java.util.List;
 
