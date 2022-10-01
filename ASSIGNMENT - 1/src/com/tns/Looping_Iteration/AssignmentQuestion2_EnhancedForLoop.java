@@ -2,7 +2,7 @@ package com.tns.Looping_Iteration;
 import java.util.ArrayList;
 import java.util.List;
 
-public class EnhancedForLoop {
+public class AssignmentQuestion2_EnhancedForLoop {
 		static void enhancedForLoopTest(List<String> arrayList){
 			//Enhanced For loop test
 			for (String name : arrayList) {

@@ -1,6 +1,6 @@
 package com.tns.Looping_Iteration;
 
-public class Do_While {
+public class AssignmentQuestion1_Do_WhileLooping {
 	
 		public static void main(String arg[])
 		{
