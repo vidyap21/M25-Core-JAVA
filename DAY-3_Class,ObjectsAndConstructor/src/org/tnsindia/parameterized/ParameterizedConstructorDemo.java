@@ -27,5 +27,4 @@ public class ParameterizedConstructorDemo {
 		Bike b=new Bike(speed);        //object creation
 		s.close();
 	}
-
 }
