@@ -9,5 +9,4 @@ public class DemoOnDatatype {
 		long xyz=128;
 		System.out.println(xyz);
 	}
-	
 }
