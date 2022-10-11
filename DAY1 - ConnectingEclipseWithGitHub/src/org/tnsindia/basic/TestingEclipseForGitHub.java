@@ -1,4 +1,4 @@
-package org.tnsindia.basic;
+package src.org.tnsindia.basic;
 
 public class TestingEclipseForGitHub {
 
