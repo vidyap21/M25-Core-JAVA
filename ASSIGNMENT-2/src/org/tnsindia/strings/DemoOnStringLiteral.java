@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DemoOnStringLiteral {
 
 	public static void main(String[] args) {
-		String str="Vrushali Varankar";
+		String str="VIDYA PAYGUDE";
 		System.out.println(str);
 		System.out.println("Enter any name: ");
 		Scanner s=new Scanner(System.in);
