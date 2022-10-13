@@ -30,7 +30,6 @@ public class ArithmeticExceptionHandling {
 		System.out.println("Exception handling");
 		s.close();
 
-
 	}
 
 }
