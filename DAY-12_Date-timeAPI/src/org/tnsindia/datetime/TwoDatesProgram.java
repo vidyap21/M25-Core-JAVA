@@ -3,7 +3,7 @@ package org.tnsindia.datetime;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-public class Example4 {
+public class TwoDatesProgram {
 
 	public static void main(String[] args) {
 		

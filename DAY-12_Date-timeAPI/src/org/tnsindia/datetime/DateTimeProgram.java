@@ -3,7 +3,7 @@ package org.tnsindia.datetime;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Example2 {
+public class DateTimeProgram {
 
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.ZoneId;
 
-public class Example6 {
+public class ZoneDateTimeProgram2 {
 
 	public static void main(String[] args) {
 		

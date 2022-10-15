@@ -2,7 +2,7 @@ package org.tnsindia.datetime;
 
 import java.time.ZonedDateTime;
 
-public class Example5 {
+public class ZoneDateTimeProgram1 {
 
 	public static void main(String[] args) {
 		

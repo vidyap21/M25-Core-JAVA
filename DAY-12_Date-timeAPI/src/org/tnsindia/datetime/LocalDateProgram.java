@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.Month;
 
-public class Example1 {
+public class LocalDateProgram {
 
 	public static void main(String[] args) {
 		
