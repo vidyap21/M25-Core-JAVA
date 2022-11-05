@@ -19,5 +19,4 @@ class AssertDemo {
 		//Fails when actual is not null
 		assertNull(null);
 	}
-
 }
